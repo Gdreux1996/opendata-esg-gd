@@ -1,3 +1,4 @@
 stenv
 .gitignore
 opendata-esg-gd/schema_base_carbone.json
+base_carbone_files/base_carbone.csv
